@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonChat", "PhotonChat.csproj", "{3A8CA387-9D52-D0EB-02E8-2332E20D4803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8CA387-9D52-D0EB-02E8-2332E20D4803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8CA387-9D52-D0EB-02E8-2332E20D4803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8CA387-9D52-D0EB-02E8-2332E20D4803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8CA387-9D52-D0EB-02E8-2332E20D4803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFC1A8BF-0A18-43F7-AAAB-4E3D8FABF6CB}
+	EndGlobalSection
+EndGlobal
